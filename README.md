@@ -186,8 +186,8 @@ The `Example-Evidence/` folder contains **completed sample deliverables** showin
 **[Your Name]**
 GRC Analyst | Cybersecurity Governance, Risk & Compliance
 
-- 🌐 [LinkedIn](https://linkedin.com/in/yourname)
-- 📧 your.email@domain.com
+- 🌐 [LinkedIn]((https://www.linkedin.com/in/michael-lawrence-17178470/))
+- 📧 ciphermichael@gmail.com
 - 🏢 Available for GRC Analyst / Consultant roles
 
 ---
